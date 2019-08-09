@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/examples/src/main/resources/AppBundle.properties" />
+    <file url="file://$PROJECT_DIR$/examples/src/main/resources/AppBundle_GB.properties" />
+    <file url="file://$PROJECT_DIR$/examples/src/main/resources/AppBundle_PL.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/examples/src/main/resources/AppBundle.properties" />
+      <file value="file://$PROJECT_DIR$/examples/src/main/resources/AppBundle_GB.properties" />
+      <file value="file://$PROJECT_DIR$/examples/src/main/resources/AppBundle_PL.properties" />
+      <base-name>AppBundle</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
